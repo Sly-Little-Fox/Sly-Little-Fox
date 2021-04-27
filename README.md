@@ -22,4 +22,5 @@ Not my projects, but you should see them:
 ## Contact me
 
 ➲ Contact me on Discord! My tag is Sly-Little-Fox#2811.
+
 ➲ Join my [Discord server](https://discord.com/invite/xzpcXYz6yK)!
