@@ -1,9 +1,26 @@
-# Sly Little Fox
-Hello, I am Fox! I program in JavaScript. Here are some of my projects:
-- [Server Backuper](https://server-backuper.ml)
-- [scrat.cf](https://scrat.cf)
-- [Paranormal Studio](https://github.com/paranormal-studio)
+# Sly-Little-Fox :fox_face:
+## About
 
-Also, look at these cool projects by my friends!
-- [Vera](vera)
-<meta name="yandex-verification" content="9a7759d6730b5a9c" />
+Hello! I am Sly-Little-Fox, a programmer! I like coding in JavaScript.
+
+My projects:
+
+➲ [Server Backuper, a protection bot for Discord servers](https://server-backuper.cloud)
+
+➲ [Scrat.cf, a link shortener for Scratch](https://scrat.cf)
+
+Not my projects, but you should see them:
+
+➲ [Scratch Addons](https://scratchaddons.com)
+
+➲ [Catie Bot](http://catiebot.tk)
+
+➲ [Vera](https://top.gg/bot/779787047685587005/)
+
+➲ [TimMcBot](https://top.gg/bot/800377812699447306/)
+
+## Contact me
+
+➲ Contact me on Discord! My tag is Sly-Little-Fox#2811.
+
+➲ Join my [Discord server](https://discord.com/invite/xzpcXYz6yK)!
