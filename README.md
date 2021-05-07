@@ -1,4 +1,4 @@
-# Sly-Little-Fox :fox_face:
+# Sly-Little-Fox 🦊
 ## About
 
 Hello! I am Sly-Little-Fox, a programmer! I like coding in JavaScript.
