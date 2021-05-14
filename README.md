@@ -9,6 +9,8 @@ My projects:
 
 ➲ [Scrat.cf, a link shortener for Scratch](https://scrat.cf)
 
+➲ [Scratch Badge, a badge for your Scratch profile](https://github.com/Sly-Little-Fox/scratch-badge)
+
 Not my projects, but you should see them:
 
 ➲ [Scratch Addons](https://scratchaddons.com)
@@ -24,3 +26,9 @@ Not my projects, but you should see them:
 ➲ Contact me on Discord! My tag is Sly-Little-Fox#2811.
 
 ➲ Join my [Discord server](https://discord.com/invite/xzpcXYz6yK)!
+
+➲ I have a [Scratch account](https://scratch.mit.edu/users/ScratchFilin)! Contact me there if you want!
+
+## Badges
+
+![Scratch Badge](https://scratch-badge.herokuapp.com/ScratchFilin)
