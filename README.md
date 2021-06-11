@@ -23,7 +23,7 @@ Not my projects, but you should see them:
 
 ## Contact me
 
-➲ Contact me on Discord! My tag is Lynx#6354.
+➲ Contact me on Discord! My tag is Lynx#4567.
 
 ➲ Join my [Discord server](https://discord.com/invite/xzpcXYz6yK)!
 
